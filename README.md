@@ -11,9 +11,9 @@ Identify the most important shopping groups based on. Income , age , and the mal
 
 
 ### Objective market segmentation : 
-* Divide our mall target into approachable groups . 
+* Dividing our mall target into approachable groups . 
 
-* Create subset of a market based on demographics behavior criteria to Better understand the target for marketing activities.
+* Creating subset of a market based on demographics behavior criteria to Better understand the target for marketing activities.
 
 
 ### Overall, the project aims to identify the most important customer segments for the mall, allowing the marketing team to better tailor their campaigns and improve the shopping experience for customers.
