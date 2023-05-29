@@ -1,7 +1,7 @@
 # Customer-Segmentation-and-Clustering
 
 
-### problem statement :
+### Problem statement :
  understanding the target customer for the marketing team to plan a strategy 
 
 
